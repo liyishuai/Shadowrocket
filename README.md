@@ -4,7 +4,7 @@
 
 > [!NOTE]
 > 
-> 本使用手册基于 **[Shadowrocket 官方群组](https://t.me/ShadowrocketApp)** 维护的关键词列表编写，并结合更新日志及社区反馈持续更新完善，覆盖 **Shadowrocket 正式版** 及 **TestFlight 测试版** 大部分功能说明、使用方法及部分常见问题。软件的部分功能可能因版本迭代存在调整、优化或删改，具体内容请以实际版本为准
+> 本使用手册基于 **[Shadowrocket 官方群组](https://t.me/ShadowrocketApp)** 维护的关键词列表编写，并结合更新日志及社区反馈持续更新完善，覆盖 **Shadowrocket 正式版** 及 **TestFlight 测试版** 大部分功能说明、使用方法及部分常见问题。软件的部分功能可能因版本迭代存在调整、优化或删改，具体内容请以实际版本为准。推荐访问 **[发布页面](https://lowertop.github.io/Shadowrocket/)** 使用，支持关键词检索
 > 
 > **使用本手册及相关软件时，请遵守当地法律法规，并自行承担相关责任**
 > 
@@ -40,7 +40,7 @@
 
 > 点击 **目录标题** 可以快速定位到相关正文<br>
 > 点击正文的 **蓝色标题** 可以快速回到目录<br>
-> 可访问 **[发布页面](https://lowertop.github.io/Shadowrocket/)** 查看，支持关键词检索
+> 可访问支持关键词检索的 **[发布页面](https://lowertop.github.io/Shadowrocket/)** 使用
 
 > * [首页](#软件首页)
 >     * [快速使用方法](#快速使用方法)
