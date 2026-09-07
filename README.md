@@ -548,7 +548,7 @@
 > 
 > **直连DNS `direct-dns-server`**
 > 
-> > 用于解析匹配直连域名规则的域名。如果不设置此项则默认使用 DNS 覆写；如果设置此项但解析失败，则回退至备用 DNS 解析
+> > 用于解析匹配直连域名规则的域名。配置该项后，若解析失败，则回退至备用 DNS 服务器。对于能够通过显式规则精确匹配的域名（例如 DOMAIN、DOMAIN-SUFFIX 等），通常由该 DNS 进行解析。对于匹配到推断类规则（如 GeoIP）的直连域名，其 DNS 解析可能遵循 DNS 覆写（DNS Override / dns-server）所配置的解析策略
 > 
 > **备用DNS `fallback-dns-server`**
 > 
